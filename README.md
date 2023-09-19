@@ -1,4 +1,4 @@
-# Streamlit-Nextjs
+# chatbot
 
 link for the project 
 
